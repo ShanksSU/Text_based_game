@@ -1,0 +1,1303 @@
+{
+  "Scenes": {
+    "保母": [
+      {
+        "lines": [
+          "上了這麼久的托育人員專業訓練班",
+          "你總算是考倒了保母證照",
+          "而你也接到了你人生中的第一份工作"
+        ],
+        "bg": "https://www.marketingdonut.co.uk/sites/default/files/styles/landing_pages_lists/public/five-tips-negotiating-better-deals82536934.jpg",
+        "char": [
+          {"name": "char_1", "imgPath": "./img/character.png"},
+          {"name": "char_2", "imgPath": "./img/character2.png"}
+        ],
+        "speaker": ["char_1"],
+        "music": "./music/ms2.mp3"
+      },
+      {
+        "lines": [
+          "帶帶嬰兒",
+          "這怎麼想都是件容易的事對吧"
+        ],
+        "bg": "https://www.emedihealth.com/wp-content/uploads/2021/05/tips-for-taking-care-of-a-newborn-baby-feat.jpg",
+        "char": [
+          {"name": "char_1", "imgPath": "./img/character.png"},
+          {"name": "char_2", "imgPath": "./img/character2.png"}
+        ],
+        "speaker": ["char_1"],
+        "music": "./music/ms1.mp3"
+      },
+      {
+        "lines": [
+          "但僅僅過了一個星期你就發現了",
+          "這跟你原本想的完全不一樣"
+        ],
+        "bg": "https://www.care.com/c/wp-content/uploads/sites/2/2021/04/LaurenGarcia-201938171738472457-1620x1080.jpg.optimal.jpg",
+        "char": [
+          {"name": "char_1", "imgPath": "./img/character.png"},
+          {"name": "char_2", "imgPath": "./img/character2.png"}
+        ],
+        "speaker": ["char_1"],
+        "music": "./music/ms1.mp3"
+      },
+      {
+        "lines": [
+          "小嬰兒又哭又鬧的",
+          "稍微分心了一下可能又從哪裡摔下來了",
+          "這工作的壓力實在讓你喘不過氣"
+        ],
+        "bg": "https://cdn.babynamequest.com/wp-content/uploads/2020/09/climbing-bed.jpg",
+        "char": [
+          {"name": "char_1", "imgPath": "./img/character.png"},
+          {"name": "char_2", "imgPath": "./img/character2.png"}
+        ],
+        "speaker": ["char_1"],
+        "music": "./music/ms1.mp3"
+      }
+    ],
+    "餵孩子吃安眠藥": [
+      {
+        "lines": [
+          "因為承受不了照顧嬰兒所帶來的壓力",
+          "你在嬰兒的奶粉裡添加了些安眠藥"
+        ],
+        "bg": "https://media3.s-nbcnews.com/i/streams/2014/May/140501/2D274905755224-77188190-wwk-formula.jpg",
+        "char": [
+          {"name": "char_1", "imgPath": "./img/character.png"},
+          {"name": "char_2", "imgPath": "./img/character2.png"}
+        ],
+        "speaker": ["char_2"],
+        "music": "./music/ms2.mp3"
+      },
+      {
+        "lines": [
+          "嬰兒不再哭鬧了",
+          "你的工作變得無比的輕鬆"
+        ],
+        "bg": "https://milk-drunk.com/wp-content/uploads/2020/08/iStock-1295069867.jpg",
+        "char": [
+          {"name": "char_1", "imgPath": "./img/character.png"},
+          {"name": "char_2", "imgPath": "./img/character2.png"}
+        ],
+        "speaker": ["char_1"],
+        "music": "./music/ms1.mp3"
+      },
+      {
+        "lines": [
+          "………"
+        ],
+        "bg": "https://www.technistone.com/color-range/image-slab/Brilliant%20Black_SLAB_web.jpg",
+        "char": [
+          {"name": "char_1", "imgPath": "./img/character.png"},
+          {"name": "char_2", "imgPath": "./img/character2.png"}
+        ],
+        "speaker": ["char_1"],
+        "music": "./music/ms1.mp3"
+      },
+      {
+        "lines": [
+          "家長回來後發現了嬰兒怎麼都叫不醒且兩眼無神又癱軟無力",
+          "經緊急送醫院抽血，發現受有苯重氮基鹽類藥物中毒等傷害",
+          "家人最終決定報警處理"
+        ],
+        "bg": "https://imageio.forbes.com/specials-images/imageserve/1032413480//960x0.jpg?format=jpg&width=960",
+        "char": [
+          {"name": "char_1", "imgPath": "./img/character.png"},
+          {"name": "char_2", "imgPath": "./img/character2.png"}
+        ],
+        "speaker": ["char_1"],
+        "music": "./music/ms1.mp3"
+      }
+    ],
+    "認了": [
+      {
+        "lines": [
+          "想了想",
+          "照顧嬰兒似乎就從來不事件輕鬆的事了",
+          "小時候我們的家長也是這樣照顧著我們長大的"
+        ],
+        "bg": "https://pedsondemand.com/wp-content/uploads/2021/03/AdobeStock_133608519.jpeg",
+        "char": [
+          {"name": "char_1", "imgPath": "./img/character.png"},
+          {"name": "char_2", "imgPath": "./img/character2.png"}
+        ],
+        "speaker": ["char_2"],
+        "music": "./music/ms2.mp3"
+      },
+      {
+        "lines": [
+          "你放下了心中的不滿",
+          "真正的開始認真的面對你的工作"
+        ],
+        "bg": "https://www.edenprivatestaff.com/wp-content/uploads/2018/10/eden-blog-nanny-for-a-newborn.jpg",
+        "char": [
+          {"name": "char_1", "imgPath": "./img/character.png"},
+          {"name": "char_2", "imgPath": "./img/character2.png"}
+        ],
+        "speaker": ["char_1"],
+        "music": "./music/ms1.mp3"
+      },
+      {
+        "lines": [
+          "被你照顧的嬰兒們都十分健康的長大了",
+          "家長們也都十分的感謝你的細心呵護"
+        ],
+        "bg": "https://www.merchantmaverick.com/wp-content/uploads/2022/07/pay-nanny.jpg",
+        "char": [
+          {"name": "char_1", "imgPath": "./img/character.png"},
+          {"name": "char_2", "imgPath": "./img/character2.png"}
+        ],
+        "speaker": ["char_1"],
+        "music": "./music/ms1.mp3"
+      },
+      {
+        "lines": [
+          "有什麼事比這還讓人開心的呢"
+        ],
+        "bg": "https://www.merchantmaverick.com/wp-content/uploads/2022/07/pay-nanny.jpg",
+        "char": [
+          {"name": "char_1", "imgPath": "./img/character.png"},
+          {"name": "char_2", "imgPath": "./img/character2.png"}
+        ],
+        "speaker": ["char_1"],
+        "music": "./music/ms1.mp3"
+      }
+    ],
+    "工程師": [
+      {
+        "lines": [
+          "大學畢業的你經過了不斷的努力",
+          "你成功地進入了科技業的龍頭成為了一名設備工程師"
+        ],
+        "bg": "https://www.topuniversities.com/sites/default/files/styles/articles_inline/public/articles/lead-images/10_good_reasons_to_go_to_grad_school_1.jpg.webp",
+        "char": [
+          {"name": "char_1", "imgPath": "./img/character.png"},
+          {"name": "char_2", "imgPath": "./img/character2.png"}
+        ],
+        "speaker": ["char_1", "char_2"],
+        "music": "./music/ms2.mp3"
+      },
+      {
+        "lines": [
+          "但讓你沒想到的是每天的早8到晚8",
+          "每個月還需要安排兩次周末的大夜班",
+          "在這巨大的壓力下你決定"
+        ],
+        "bg": "https://www.ginsanaproducts.com/sites/EN/cache/file/27423C48-590A-415D-97FF0EBCBFE29719_W914_H540.jpg",
+        "char": [
+          {"name": "char_1", "imgPath": "./img/character.png"},
+          {"name": "char_2", "imgPath": "./img/character2.png"}
+        ],
+        "speaker": ["char_1"],
+        "music": "./music/ms1.mp3"
+      }
+    ],
+    "服用安眠藥自殺": [
+      {
+        "lines": [
+          "你在承受不住這種高壓生活的情況下選擇了自殺",
+          "成聽說過用安眠藥自殺是種安樂死的你決定了採用這一方案"
+        ],
+        "bg": "https://www.verywellhealth.com/thmb/un20jwKJBVQzBvtc1lMM7aCXD_I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-583640768-55d14205ab6d4cb8b29cfeec5fee2899.jpg",
+        "char": [
+          {"name": "char_1", "imgPath": "./img/character.png"},
+          {"name": "char_2", "imgPath": "./img/character2.png"}
+        ],
+        "speaker": ["char_1"],
+        "music": "./music/ms1.mp3"
+      },
+      {
+        "lines": [
+          "你從網路上購買了大量的安眠藥",
+          "開始向吃花生依樣一顆一顆地將這些安眠藥吞下肚"
+        ],
+        "bg": "https://www.makatimed.net.ph/wp-content/uploads/2023/05/Sleeping-Pills-Blog-Banner-Photo.png",
+        "char": [
+          {"name": "char_1", "imgPath": "./img/character.png"},
+          {"name": "char_2", "imgPath": "./img/character2.png"}
+        ],
+        "speaker": ["char_1"],
+        "music": "./music/ms1.mp3"
+      },
+      {
+        "lines": [
+          "你從網路上購買了大量的安眠藥",
+          "開始向吃花生依樣一顆一顆地將這些安眠藥吞下肚"
+        ],
+        "bg": "https://www.makatimed.net.ph/wp-content/uploads/2023/05/Sleeping-Pills-Blog-Banner-Photo.png",
+        "char": [
+          {"name": "char_1", "imgPath": "./img/character.png"},
+          {"name": "char_2", "imgPath": "./img/character2.png"}
+        ],
+        "speaker": ["char_1"],
+        "music": "./music/ms1.mp3"
+      },
+      {
+        "lines": [
+          "但你不知道的是為了避免過度用藥",
+          "安眠藥大多都會添加些微的吹吐劑"
+        ],
+        "bg": "https://www.manhattangastroenterology.com/wp-content/uploads/2022/05/throwing-up-yellow-bile-what-does-it-mean.jpg",
+        "char": [
+          {"name": "char_1", "imgPath": "./img/character.png"},
+          {"name": "char_2", "imgPath": "./img/character2.png"}
+        ],
+        "speaker": ["char_1"],
+        "music": "./music/ms1.mp3"
+      },
+      {
+        "lines": [
+          "你到了廁所開始不停的嘔吐",
+          "途中你的家人察覺了你的異樣",
+          "他們將你送到了醫院"
+        ],
+        "bg": "https://www.ambulance.nsw.gov.au/__data/assets/image/0006/552264/Calling-an-Ambulance.jpg",
+        "char": [
+          {"name": "char_1", "imgPath": "./img/character.png"},
+          {"name": "char_2", "imgPath": "./img/character2.png"}
+        ],
+        "speaker": ["char_1"],
+        "music": "./music/ms1.mp3"
+      },
+      {
+        "lines": [
+          "醫生為你戴上了呼吸機並注射了呼吸性分劑",
+          "並且了盡快排除你體內的毒素而開始為你洗胃",
+          "過程中所伴隨的痛苦讓你開始開始後悔了自己的選擇"
+        ],
+        "bg": "https://checkton.com/assets/checklist/image/6064496ba3f369.93707846.png",
+        "char": [
+          {"name": "char_1", "imgPath": "./img/character.png"},
+          {"name": "char_2", "imgPath": "./img/character2.png"}
+        ],
+        "speaker": ["char_1"],
+        "music": "./music/ms1.mp3"
+      },
+      {
+        "lines": [
+          "最終醫生成功的將你就活了你也想通了",
+          "但往後的日子裡伴隨著你的將會是長時間的頭痛以及失眠"
+        ],
+        "bg": "https://www.pulsetoday.co.uk/wp-content/uploads/2023/09/insomnia.jpg",
+        "char": [
+          {"name": "char_1", "imgPath": "./img/character.png"},
+          {"name": "char_2", "imgPath": "./img/character2.png"}
+        ],
+        "speaker": ["char_1"],
+        "music": "./music/ms1.mp3"
+      }
+    ],
+    "換工作": [
+      {
+        "lines": [
+          "即使賺的錢是別人的一倍",
+          "你也再也無法忍受這樣的工時了"
+        ],
+        "bg": "https://www.moneycrashers.com/wp-content/uploads/2011/06/refuse-lending-money-family-friends.jpg",
+        "char": [
+          {"name": "char_1", "imgPath": "./img/character.png"},
+          {"name": "char_2", "imgPath": "./img/character2.png"}
+        ],
+        "speaker": ["char_1", "char_2"],
+        "music": "./music/ms2.mp3"
+      },
+      {
+        "lines": [
+          "你帶著你手頭所剩下的資金在路邊開了一間雞排攤",
+          "賺錢的速度跟以前比起來實在是慢了不少",
+          "但不再因為工時而感到壓力的你卻感到了無比的快樂"
+        ],
+        "bg": "https://images.chinatimes.com/newsphoto/2023-03-30/656/20230330005349.jpg",
+        "char": [
+          {"name": "char_1", "imgPath": "./img/character.png"},
+          {"name": "char_2", "imgPath": "./img/character2.png"}
+        ],
+        "speaker": ["char_1", "char_2"],
+        "music": "./music/ms2.mp3"
+      },
+      {
+        "lines": [
+          "雖然有時候你還是會想",
+          "自己讀了那麼多年的書",
+          "受了這麼多的苦到底是為了什麼"
+        ],
+        "bg": "https://cdn.britannica.com/53/180553-050-FE609C89/Thinker-Auguste-Rodin-Museum-Paris-1904.jpg",
+        "char": [
+          {"name": "char_1", "imgPath": "./img/character.png"},
+          {"name": "char_2", "imgPath": "./img/character2.png"}
+        ],
+        "speaker": ["char_1", "char_2"],
+        "music": "./music/ms2.mp3"
+      },
+      {
+        "lines": [
+          "但這又如何",
+          "反正現在的人生過得也挺好的",
+          "何必再去想那些呢"
+        ],
+        "bg": "https://benkohns.files.wordpress.com/2022/02/whatever.png",
+        "char": [
+          {"name": "char_1", "imgPath": "./img/character.png"},
+          {"name": "char_2", "imgPath": "./img/character2.png"}
+        ],
+        "speaker": ["char_1", "char_2"],
+        "music": "./music/ms2.mp3"
+      }
+    ],
+    "改變自己": [
+      {
+        "lines": [
+          "你認為再這樣下去身體一定會搞壞的",
+          "所以你戒掉了所有的遊戲",
+          "並且斷絕了以前同學的聯絡"
+        ],
+        "bg": "https://i.imgflip.com/5v0kxe.jpg?a471792",
+        "char": [
+          {"name": "char_1", "imgPath": "./img/character.png"},
+          {"name": "char_2", "imgPath": "./img/character2.png"}
+        ],
+        "speaker": ["char_1", "char_2"],
+        "music": "./music/ms2.mp3"
+      },
+      {
+        "lines": [
+          "為了身心靈的健康你不再吃垃圾食品",
+          "每天起床後開始晨跑",
+          "跑完後吃了早餐再去上班"
+        ],
+        "bg": "https://sustainhealth.fit/wp-content/uploads/2021/09/runner-running-looking-at-the-sea.jpg",
+        "char": [
+          {"name": "char_1", "imgPath": "./img/character.png"},
+          {"name": "char_2", "imgPath": "./img/character2.png"}
+        ],
+        "speaker": ["char_1", "char_2"],
+        "music": "./music/ms2.mp3"
+      },
+      {
+        "lines": [
+          "下班後吃個晚餐",
+          "回家後倒頭就睡",
+          "你的人生變得樸實無華"
+        ],
+        "bg": "https://cdn-prod.medicalnewstoday.com/content/images/articles/320/320566/man-sleeping.jpg",
+        "char": [
+          {"name": "char_1", "imgPath": "./img/character.png"},
+          {"name": "char_2", "imgPath": "./img/character2.png"}
+        ],
+        "speaker": ["char_1", "char_2"],
+        "music": "./music/ms2.mp3"
+      },
+      {
+        "lines": [
+          "你的退休生活過得十分的簡單且健康",
+          "你所賺的錢遠遠的超過了你所需要的量",
+          "但這對無欲無求的你來說毫無意義"
+        ],
+        "bg": "https://i.ytimg.com/vi/Qe4RCmMBacE/maxresdefault.jpg",
+        "char": [
+          {"name": "char_1", "imgPath": "./img/character.png"},
+          {"name": "char_2", "imgPath": "./img/character2.png"}
+        ],
+        "speaker": ["char_1", "char_2"],
+        "music": "./music/ms2.mp3"
+      },
+      {
+        "lines": [
+          "就這樣你過完了平靜的一生"
+        ],
+        "bg": "https://i0.wp.com/therationalmale.com/wp-content/uploads/2011/09/preview_image.jpeg?resize=450%2C338",
+        "char": [
+          {"name": "char_1", "imgPath": "./img/character.png"},
+          {"name": "char_2", "imgPath": "./img/character2.png"}
+        ],
+        "speaker": ["char_1", "char_2"],
+        "music": "./music/ms2.mp3"
+      }
+    ],
+    "無辜的阿嬤": [
+      {
+        "lines": [
+          "你作為一位賢慧的媳婦",
+          "照料家中的大小事是你每天必做的工作"
+        ],
+        "bg": "https://assets.thehansindia.com/h-upload/2022/11/02/1318911-house-wifes.webp",
+        "char": [
+          {"name": "char_1", "imgPath": "./img/character.png"},
+          {"name": "char_2", "imgPath": "./img/character2.png"}
+        ],
+        "speaker": ["char_1", "char_2"],
+        "music": "./music/ms2.mp3"
+      },
+      {
+        "lines": [
+          "在清理完浴室及衣物後",
+          "你打算再去確認一下婆婆的狀況"
+        ],
+        "bg": "https://itk-assets.nyc3.cdn.digitaloceanspaces.com/2022/04/young_african_housewife_cleaning_up_bathtub.jpeg",
+        "char": [
+          {"name": "char_1", "imgPath": "./img/character.png"},
+          {"name": "char_2", "imgPath": "./img/character2.png"}
+        ],
+        "speaker": ["char_1", "char_2"],
+        "music": "./music/ms2.mp3"
+      },
+      {
+        "lines": [
+          "婆婆因為長期失眠的關係",
+          "所以都需要藉由安眠藥才能入睡"
+        ],
+        "bg": "https://www.verywellmind.com/thmb/km91lkP1Mq2QkVxlKrJT4hJ5oaQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1325301979-9d596ef10bc842d39eed041f67ed3289.jpg",
+        "char": [
+          {"name": "char_1", "imgPath": "./img/character.png"},
+          {"name": "char_2", "imgPath": "./img/character2.png"}
+        ],
+        "speaker": ["char_1", "char_2"],
+        "music": "./music/ms2.mp3"
+      },
+      {
+        "lines": [
+          "你進入了婆婆的寢室",
+          "發現婆婆已經安然入睡",
+          "但床頭的安眠藥卻還沒被動過"
+        ],
+        "bg": "https://health.clevelandclinic.org/wp-content/uploads/sites/3/2019/06/sleepAidMedications-524908690-770x553-1-650x428.jpg",
+        "char": [
+          {"name": "char_1", "imgPath": "./img/character.png"},
+          {"name": "char_2", "imgPath": "./img/character2.png"}
+        ],
+        "speaker": ["char_1", "char_2"],
+        "music": "./music/ms2.mp3"
+      }
+    ],
+    "叫她起來吃安眠藥": [
+      {
+        "lines": [
+          "你輕輕地搖了搖婆婆的肩膀",
+          "將已進入夢鄉的婆婆拉回了現實"
+        ],
+        "bg": "https://assets.hellahealth.com/wp-content/uploads/sites/2/2021/09/25083440/waking-up-at-3-am-746x420.jpg",
+        "char": [
+          {"name": "char_1", "imgPath": "./img/character.png"},
+          {"name": "char_2", "imgPath": "./img/character2.png"}
+        ],
+        "speaker": ["char_1", "char_2"],
+        "music": "./music/ms2.mp3"
+      },
+      {
+        "lines": [
+          "你拿了杯水給婆婆",
+          "讓她趕緊把安眠藥吃了後去睡覺"
+        ],
+        "bg": "https://media.istockphoto.com/id/1393134252/photo/nurse-home-health-care-visit-to-give-prescribed-medicine-to-senior-woman.jpg",
+        "char": [
+          {"name": "char_1", "imgPath": "./img/character.png"},
+          {"name": "char_2", "imgPath": "./img/character2.png"}
+        ],
+        "speaker": ["char_1", "char_2"],
+        "music": "./music/ms2.mp3"
+      },
+      {
+        "lines": [
+          "婆婆吃完藥後目送著你的背影離去",
+          "她的眼神中所流露的情感並不是感激",
+          "而是對你滿滿的關懷"
+        ],
+        "bg": "https://i.imgflip.com/4/bl3i2.jpg",
+        "char": [
+          {"name": "char_1", "imgPath": "./img/character.png"},
+          {"name": "char_2", "imgPath": "./img/character2.png"}
+        ],
+        "speaker": ["char_1", "char_2"],
+        "music": "./music/ms2.mp3"
+      }
+    ],
+    "離開": [
+      {
+        "lines": [
+          "既然婆婆都已經睡著了",
+          "那也就沒必要再叫她起來吃安眠藥了"
+        ],
+        "bg": "https://image1.masterfile.com/getImage/NjQ5LTA3NTIxMTcyZW4uMDAwMDAwMDA=AD24xt/649-07521172en_Masterfile.jpg",
+        "char": [
+          {"name": "char_1", "imgPath": "./img/character.png"},
+          {"name": "char_2", "imgPath": "./img/character2.png"}
+        ],
+        "speaker": ["char_1", "char_2"],
+        "music": "./music/ms2.mp3"
+      },
+      {
+        "lines": [
+          "能夠自然地入睡對失眠的人來說再好不過了",
+          "而且這樣叫醒婆婆還有可能會影響到她原本的睡眠模式",
+          "想到了這裡你默默地關上房門並回到房間就寢"
+        ],
+        "bg": "https://albertideation.com/wp-content/uploads/2019/03/Closing-Door.jpg",
+        "char": [
+          {"name": "char_1", "imgPath": "./img/character.png"},
+          {"name": "char_2", "imgPath": "./img/character2.png"}
+        ],
+        "speaker": ["char_1", "char_2"],
+        "music": "./music/ms2.mp3"
+      }
+    ],
+    "上班族": [
+      {
+        "lines": [
+          "鬧鐘的鈴聲刺破了寧靜的早晨",
+          "將你重甜美的夢境中拉回了現實"
+        ],
+        "bg": "https://taiff.com.br/wp-content/uploads/2016/08/woman-shutting-off-ringing-alarm-clock-from-bed-picjumbo-com.jpg",
+        "char": [
+          {"name": "char_1", "imgPath": "./img/character.png"},
+          {"name": "char_2", "imgPath": "./img/character2.png"}
+        ],
+        "speaker": ["char_1", "char_2"],
+        "music": "./music/ms2.mp3"
+      },
+      {
+        "lines": [
+          "你伸手去關閉那萬惡的鬧鐘",
+          "重床上坐了起來",
+          "想著這時間應該可以再多睡五分鐘"
+        ],
+        "bg": "https://ih1.redbubble.net/image.335288186.2522/flat,750x,075,f-pad,750x1000,f8f8f8.u1.jpg",
+        "char": [
+          {"name": "char_1", "imgPath": "./img/character.png"},
+          {"name": "char_2", "imgPath": "./img/character2.png"}
+        ],
+        "speaker": ["char_1", "char_2"],
+        "music": "./music/ms2.mp3"
+      },
+      {
+        "lines": [
+          "但你很快地打消了這個念頭",
+          "因為身為上班族的你知道",
+          "這一睡下去大概又要被經理訓話了"
+        ],
+        "bg": "https://www.usatoday.com/gcdn/presto/2021/09/25/USAT/89a2dceb-4d7f-41c0-a1c4-36471cfbccef-AP_Philanthropy_Viral_GIF-Fundraiser.jpg?crop=3199,1800,x0,y96&width=3199&height=1800&format=pjpg&auto=webp",
+        "char": [
+          {"name": "char_1", "imgPath": "./img/character.png"},
+          {"name": "char_2", "imgPath": "./img/character2.png"}
+        ],
+        "speaker": ["char_1", "char_2"],
+        "music": "./music/ms2.mp3"
+      },
+      {
+        "lines": [
+          "你整理了今天開會所需要的文件及簡報並準備出門",
+          "但當你打開車門時你卻突然想到",
+          "你昨天睡前似乎因為太累而忘記服用安眠藥了"
+        ],
+        "bg": "https://www.ma-vie-administrative.fr/wp-content/uploads/2021/09/Reglementation-conservation-documents.jpg",
+        "char": [
+          {"name": "char_1", "imgPath": "./img/character.png"},
+          {"name": "char_2", "imgPath": "./img/character2.png"}
+        ],
+        "speaker": ["char_1", "char_2"],
+        "music": "./music/ms2.mp3"
+      }
+    ],
+    "補吃個安眠藥再去上班": [
+      {
+        "lines": [
+          "你迅速的補吃了顆安眠藥",
+          "然後就直接開車前往公司了"
+        ],
+        "bg": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2014/11/10/1415649777215/Woman-taking-pills-and-wa-012.jpg?width=620&quality=85&auto=format&fit=max&s=59f101dfdbaf2bdd1d9e48a297e87ad5",
+        "char": [
+          {"name": "char_1", "imgPath": "./img/character.png"},
+          {"name": "char_2", "imgPath": "./img/character2.png"}
+        ],
+        "speaker": ["char_1", "char_2"],
+        "music": "./music/ms2.mp3"
+      },
+      {
+        "lines": [
+          "但開車到一半時睏意卻向你襲來",
+          "你握著方向盤的手不自覺的鬆開了",
+          "而油門也被你踩到了底"
+        ],
+        "bg": "https://www.usnews.com/object/image/00000182-a55e-dc41-a1db-a57f1a0e0000/GettyImages-482460696.jpg?update-time=&size=responsiveFlow640",
+        "char": [
+          {"name": "char_1", "imgPath": "./img/character.png"},
+          {"name": "char_2", "imgPath": "./img/character2.png"}
+        ],
+        "speaker": ["char_1", "char_2"],
+        "music": "./music/ms2.mp3"
+      },
+      {
+        "lines": [
+          "失控的汽車直接衝向了旁邊的待轉區",
+          "巨大的衝擊使你失去了意識"
+        ],
+        "bg": "https://health.wyo.gov/wp-content/uploads/2016/06/carcrash.jpg",
+        "char": [
+          {"name": "char_1", "imgPath": "./img/character.png"},
+          {"name": "char_2", "imgPath": "./img/character2.png"}
+        ],
+        "speaker": ["char_1", "char_2"],
+        "music": "./music/ms2.mp3"
+      },
+      {
+        "lines": [
+          "再次甦醒時你人已身處在醫院",
+          "因為安全氣囊的緣故你的身體並無大礙"
+        ],
+        "bg": "https://motionarray.imgix.net/preview-1071008-1564228184201-high_0007.jpg?w=660&q=60&fit=max&auto=format",
+        "char": [
+          {"name": "char_1", "imgPath": "./img/character.png"},
+          {"name": "char_2", "imgPath": "./img/character2.png"}
+        ],
+        "speaker": ["char_1", "char_2"],
+        "music": "./music/ms2.mp3"
+      },
+      {
+        "lines": [
+          "但被你撞到的機車騎士就沒這麼幸運了",
+          "經過了一段時間的治療後他便失去了性命"
+        ],
+        "bg": "https://images.theconversation.com/files/381218/original/file-20210128-13-1sfbov7.jpg?ixlib=rb-1.1.0&rect=235%2C22%2C3598%2C1799&q=45&auto=format&w=1356&h=668&fit=crop",
+        "char": [
+          {"name": "char_1", "imgPath": "./img/character.png"},
+          {"name": "char_2", "imgPath": "./img/character2.png"}
+        ],
+        "speaker": ["char_1", "char_2"],
+        "music": "./music/ms2.mp3"
+      },
+      {
+        "lines": [
+          "而你也將失去原本和平的生活",
+          "等著你的將會是大量的社會輿論以及長期的牢獄之災"
+        ],
+        "bg": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2017/8/prisoner.jpg",
+        "char": [
+          {"name": "char_1", "imgPath": "./img/character.png"},
+          {"name": "char_2", "imgPath": "./img/character2.png"}
+        ],
+        "speaker": ["char_1", "char_2"],
+        "music": "./music/ms2.mp3"
+      }
+    ],
+    "直接去上班": [
+      {
+        "lines": [
+          "吃了安眠藥後再上路怕不是想自殺吧",
+          "你放下了安眠藥並駕車前往公司",
+          "跟往常一樣你度過了平凡的一天"
+        ],
+        "bg": "https://website2021-live-e3e78fbbd3cc41f2847799-7c49c59.divio-media.com/filer_public_thumbnails/filer_public/eb/7f/eb7fa02f-e613-486b-98cf-9e034052610e/how_to_run_an_effective_business_meeting_-_a_step-by-step_guide-min.jpg__1200x630_q90_crop_subsampling-2_upscale.jpg",
+        "char": [
+          {"name": "char_1", "imgPath": "./img/character.png"},
+          {"name": "char_2", "imgPath": "./img/character2.png"}
+        ],
+        "speaker": ["char_1", "char_2"],
+        "music": "./music/ms2.mp3"
+      }
+    ],
+    "測試": [
+      {
+        "lines": [
+          "啊～肚子餓了",
+          "今天晚餐吃什麼好呢",
+          "媽媽快點回來啊"
+        ],
+        "bg": "./img/bg2.png",
+        "char": [
+          {"name": "char_1", "imgPath": "./img/character.png"},
+          {"name": "char_2", "imgPath": "./img/character2.png"}
+        ],
+        "speaker": ["char_1", "char_2"],
+        "music": "./music/ms2.mp3"
+      },
+      {
+        "lines": [
+          "來去做些什麼消磨時間吧"
+        ],
+        "bg": "./img/bg2.png",
+        "char": [
+          {"name": "char_1", "imgPath": "./img/character.png"},
+          {"name": "char_2", "imgPath": "./img/character2.png"}
+        ],
+        "speaker": ["char_1", "char_2"],
+        "music": "./music/ms2.mp3"
+      }
+    ],
+    "安眠鎮靜劑":[
+      {
+        "lines": [
+          "「叮叮叮叮叮叮叮叮叮叮」",
+          "鬧鐘無情地響起，粗暴地將你扯離夢鄉"
+        ],
+        "bg": "./img/zj01.png",
+        "char": [
+          {"name": "char_1", "imgPath": "./img/character.png"},
+          {"name": "char_2", "imgPath": "./img/character2.png"}
+        ],
+        "speaker": ["char_1", "char_2"],
+        "music": "./music/ms2.mp3"
+      },
+      {
+        "lines": [
+          "你睜開浮腫的雙眼，晃了晃宛如灌了鉛塊的腦袋瓜",
+          "感受到頭骨裡頭的大腦像是跟你抗議一般，隨著心跳的節奏抽痛著"
+        ],
+        "bg": "./img/zj01.png",
+        "char": [
+          {"name": "char_1", "imgPath": "./img/character.png"},
+          {"name": "char_2", "imgPath": "./img/character2.png"}
+        ],
+        "speaker": ["char_1", "char_2"],
+        "music": "./music/ms2.mp3"
+      },
+      {
+        "lines": [
+          "是的，這又是學生生活新的一天",
+          "你感到前一晚睡前服下的”美得眠”的藥效仍在你的血管中遊蕩",
+          "你想躺回床上，但等會的早八讓你別無選擇地下床"
+        ],
+        "bg": "./img/zj02.png",
+        "char": [
+          {"name": "char_1", "imgPath": "./img/character.png"},
+          {"name": "char_2", "imgPath": "./img/character2.png"}
+        ],
+        "speaker": ["char_1", "char_2"],
+        "music": "./music/ms2.mp3"
+      },
+      {
+        "lines": [
+          ".........",
+          "為了驅走腦中的昏沉感，你在早餐店旁的超商買了一杯罐裝咖啡，雙倍咖啡因的款式"
+        ],
+        "bg": "./img/zj03.png",
+        "char": [
+          {"name": "char_1", "imgPath": "./img/character.png"},
+          {"name": "char_2", "imgPath": "./img/character2.png"}
+        ],
+        "speaker": ["char_1", "char_2"],
+        "music": "./music/ms2.mp3"
+      },
+      {
+        "lines": [
+          "你並不是特別喜歡咖啡的味道，手中的咖啡對你的意義除了提神，再無更多",
+          "但為了應付等等的，以及之後一整天的課程，你只得嚥下灌中苦澀的褐色液體"
+        ],
+        "bg": "./img/zj04.png",
+        "char": [
+          {"name": "char_1", "imgPath": "./img/character.png"},
+          {"name": "char_2", "imgPath": "./img/character2.png"}
+        ],
+        "speaker": ["char_1", "char_2"],
+        "music": "./music/ms2.mp3"
+      },
+      {
+        "lines": [
+          "隨著咖啡因進入血液，你感受到心跳微微地加速，或許你能撐過今天的課程了"
+        ],
+        "bg": "./img/zj04.png",
+        "char": [
+          {"name": "char_1", "imgPath": "./img/character.png"},
+          {"name": "char_2", "imgPath": "./img/character2.png"}
+        ],
+        "speaker": ["char_1", "char_2"],
+        "music": "./music/ms2.mp3"
+      },
+      {
+        "lines": [
+          "........."
+        ],
+        "bg": "./img/zj05.png",
+        "char": [
+          {"name": "char_1", "imgPath": "./img/character.png"},
+          {"name": "char_2", "imgPath": "./img/character2.png"}
+        ],
+        "speaker": ["char_1", "char_2"],
+        "music": "./music/ms2.mp3"
+      },
+      {
+        "lines": [
+          "又到了睡前翻來覆去的時間，已經服過今天份的’美得眠’的你，卻躺在床上遲遲無法入睡，但你多少明白為什麼"
+        ],
+        "bg": "./img/zj05.png",
+        "char": [
+          {"name": "char_1", "imgPath": "./img/character.png"},
+          {"name": "char_2", "imgPath": "./img/character2.png"}
+        ],
+        "speaker": ["char_1", "char_2"],
+        "music": "./music/ms2.mp3"
+      },
+      {
+        "lines": [
+          "方才上床前在小便斗前撒的一泡尿，在離開身體的瞬間就發出淡淡的咖啡氣味",
+          "暗示著那罐咖啡還沒有從你的身體中代謝完畢",
+          "連帶著那些令人在睡覺時間，非自願精神清醒的咖啡因"
+        ],
+        "bg": "./img/xbd.jpeg",
+        "char": [
+          {"name": "char_1", "imgPath": "./img/character.png"},
+          {"name": "char_2", "imgPath": "./img/character2.png"}
+        ],
+        "speaker": ["char_1", "char_2"],
+        "music": "./music/ms2.mp3"
+      },
+      {
+        "lines": [
+          "你想起了床頭櫃中，還存著以前沒吃完的’美得眠’"
+        ],
+        "bg": "./img/zj06.png",
+        "char": [
+          {"name": "char_1", "imgPath": "./img/character.png"},
+          {"name": "char_2", "imgPath": "./img/character2.png"}
+        ],
+        "speaker": ["char_1", "char_2"],
+        "music": "./music/ms2.mp3"
+      }
+    ],
+    "多吃一粒’美得眠’，上床睡覺": [
+      {
+        "lines": [
+          "你打開綠色的藥錠薄博的包裝，真不敢相信你與一夜安眠的距離只隔了層紙的厚度",
+          "你連水都沒裝，直接將藥錠用乾澀的喉嚨擠入胃中",
+          "躺回床上，你感受到意識有點渙散，或許正是你想要的效果",
+          "但不是你需要的"
+        ],
+        "bg": "./img/zj07.png",
+        "char": [
+          {"name": "char_1", "imgPath": "./img/character.png"},
+          {"name": "char_2", "imgPath": "./img/character2.png"}
+        ],
+        "speaker": ["char_1", "char_2"],
+        "music": "./music/ms2.mp3"
+      },
+      {
+        "lines": [
+          "因為你還不知道，明天早上，雙倍的睏意與精神渙散，將會隨著殘留的雙倍藥效在你的血管中流動"
+        ],
+        "bg": "./img/zj07.png",
+        "char": [
+          {"name": "char_1", "imgPath": "./img/character.png"},
+          {"name": "char_2", "imgPath": "./img/character2.png"}
+        ],
+        "speaker": ["char_1", "char_2"],
+        "music": "./music/ms2.mp3"
+      },
+      {
+        "lines": [
+          "或許你會在超商多買一杯咖啡，或是濃茶，或是提神飲料，只要是能幫你撐過一天的課程的東西"
+        ],
+        "bg": "./img/zj07.png",
+        "char": [
+          {"name": "char_1", "imgPath": "./img/character.png"},
+          {"name": "char_2", "imgPath": "./img/character2.png"}
+        ],
+        "speaker": ["char_1", "char_2"],
+        "music": "./music/ms2.mp3"
+      },
+      {
+        "lines": [
+          "但到了明晚還是會發生同樣的事，或許更嚴重，更多的提神成分將會讓你在晚上保持清醒"
+        ],
+        "bg": "./img/zj07.png",
+        "char": [
+          {"name": "char_1", "imgPath": "./img/character.png"},
+          {"name": "char_2", "imgPath": "./img/character2.png"}
+        ],
+        "speaker": ["char_1", "char_2"],
+        "music": "./music/ms2.mp3"
+      },
+      {
+        "lines": [
+          "或許你會決定再多服一粒藥丸"
+        ],
+        "bg": "./img/zj07.png",
+        "char": [
+          {"name": "char_1", "imgPath": "./img/character.png"},
+          {"name": "char_2", "imgPath": "./img/character2.png"}
+        ],
+        "speaker": ["char_1", "char_2"],
+        "music": "./music/ms2.mp3"
+      },
+      {
+        "lines": [
+          "然後......會持續到甚麼時候呢?"
+        ],
+        "bg": "./img/zj07.png",
+        "char": [
+          {"name": "char_1", "imgPath": "./img/character.png"},
+          {"name": "char_2", "imgPath": "./img/character2.png"}
+        ],
+        "speaker": ["char_1", "char_2"],
+        "music": "./music/ms2.mp3"
+      }
+    ],
+    "在床上閉起眼睛": [
+      {
+        "lines": [
+          "「叮叮叮叮叮叮叮叮叮叮」",
+          "鬧鐘再次響起，已經是第二天了"
+        ],
+        "bg": "./img/zj07.png",
+        "char": [
+          {"name": "char_1", "imgPath": "./img/character.png"},
+          {"name": "char_2", "imgPath": "./img/character2.png"}
+        ],
+        "speaker": ["char_1", "char_2"],
+        "music": "./music/ms2.mp3"
+      },
+      {
+        "lines": [
+          "看來不知何時你已沉沉睡去，等你重新取回意識時，已是隔天的早上",
+          "腦袋依然昏昏沉沉的，但至少沒有比昨天更糟"
+        ],
+        "bg": "./img/zj02.png",
+        "char": [
+          {"name": "char_1", "imgPath": "./img/character.png"},
+          {"name": "char_2", "imgPath": "./img/character2.png"}
+        ],
+        "speaker": ["char_1", "char_2"],
+        "music": "./music/ms2.mp3"
+      },
+      {
+        "lines": [
+          "跟昨天不同的是，有了昨晚的教訓，今天你從早餐店旁的超商走出時拿著的不是咖啡而是一條口香糖"
+        ],
+        "bg": "./img/zj08.png",
+        "char": [
+          {"name": "char_1", "imgPath": "./img/character.png"},
+          {"name": "char_2", "imgPath": "./img/character2.png"}
+        ],
+        "speaker": ["char_1", "char_2"],
+        "music": "./music/ms2.mp3"
+      },
+      {
+        "lines": [
+          "也許這能讓你在撐過今天的課程之餘不妨害你一夜好眠"
+        ],
+        "bg": "./img/zj08.png",
+        "char": [
+          {"name": "char_1", "imgPath": "./img/character.png"},
+          {"name": "char_2", "imgPath": "./img/character2.png"}
+        ],
+        "speaker": ["char_1", "char_2"],
+        "music": "./music/ms2.mp3"
+      }
+    ],
+          "不藥睡覺": [
+        {
+          "lines": [
+            "小陳是一名行政人員",
+            "由於他剛入職沒多久",
+            "還不適應工作環境"				
+          ],
+          "bg": "./img/chen01.jpg",
+          "char": [
+            {"name": "char_1", "imgPath": "./img/character.png"},
+            {"name": "char_2", "imgPath": "./img/character2.png"}
+          ],
+          "speaker": ["char_1", "char_2"],
+          "music": "./music/ms2.mp3"
+        },
+        {
+            "lines": [
+                "又被一些前輩們指派去做非他能力範圍的工作",
+                "導致小陳常常加班",
+                "壓力也很大。"
+            ],
+            "bg": "./img/chen02.jpg",
+            "char": [
+                {"name": "char_1", "imgPath": "./img/character.png"},
+                {"name": "char_2", "imgPath": "./img/character2.png"}
+            ],
+                "speaker": ["char_1", "char_2"],
+                "music": "./music/ms2.mp3"
+            }
+        ],
+        "吃安眠藥": [
+        {
+          "lines": [
+            "吃了安眠藥果然很快就能入睡",
+            "且讓小陳感覺睡的很安穩",
+            "不會在半夜突然醒來。"
+          ],
+          "bg": "./img/chen03.jpg",
+          "char": [
+            {"name": "char_1", "imgPath": "./img/character.png"},
+            {"name": "char_2", "imgPath": "./img/character2.png"}
+          ],
+          "speaker": ["char_1", "char_2"],
+          "music": "./music/ms2.mp3"
+        },
+        {
+          "lines": [
+            "第二天早上",
+            "小陳有精神能夠繼續面對工作問題",
+            "不過那些前輩依舊繼續欺負小陳。",
+            "這種情況一直持續",
+            "小陳也都照著當初的方式來幫助睡眠。"
+          ],
+          "bg": "./img/chen04.jpg",
+          "char": [
+            {"name": "char_1", "imgPath": "./img/character.png"},
+            {"name": "char_2", "imgPath": "./img/character2.png"}
+          ],
+          "speaker": ["char_1", "char_2"],
+          "music": "./music/ms2.mp3"
+        },
+        {
+          "lines": [
+            "數天後",
+            "小陳臨時被安排要到其他縣市出差五天。",
+            "到了旅館，準備睡覺",
+            "他翻找了包包數次",
+            "依然沒有找到安眠藥，於是"
+          ],
+          "bg": "./img/chen05.jpg",
+          "char": [
+            {"name": "char_1", "imgPath": "./img/character.png"},
+            {"name": "char_2", "imgPath": "./img/character2.png"}
+          ],
+          "speaker": ["char_1", "char_2"],
+          "music": "./music/ms2.mp3"
+        }
+    ],
+    "小陳感到焦慮，決定去藥局買": [
+        {
+          "lines": [
+            "由於時間太晚了",
+            "藥局都關了",
+            "小陳只好失望的回旅館。"
+          ],
+          "bg": "./img/chen06.jpg",
+          "char": [
+            {"name": "char_1", "imgPath": "./img/character.png"},
+            {"name": "char_2", "imgPath": "./img/character2.png"}
+          ],
+          "speaker": ["char_1", "char_2"],
+          "music": "./music/ms2.mp3"
+        },
+        {
+          "lines": [
+            "到了旅館依舊翻來覆去數次",
+            "還是無法入睡。",
+            "他心想既然睡不著",
+            "不如準備明天的工作。",
+            "於是小陳就這樣一整晚沒睡。"
+          ],
+          "bg": "./img/chen07.jpg",
+          "char": [
+            {"name": "char_1", "imgPath": "./img/character.png"},
+            {"name": "char_2", "imgPath": "./img/character2.png"}
+          ],
+          "speaker": ["char_1", "char_2"],
+          "music": "./music/ms2.mp3"
+        },
+        {
+          "lines": [
+            "隔天早上小陳前往工作的路上",
+            "由於他長期加班睡眠不足加上昨晚整夜沒睡",
+            "導致他精神不濟",
+            "發生了事故。"
+          ],
+          "bg": "./img/chen08.jpg",
+          "char": [
+            {"name": "char_1", "imgPath": "./img/character.png"},
+            {"name": "char_2", "imgPath": "./img/character2.png"}
+          ],
+          "speaker": ["char_1", "char_2"],
+          "music": "./music/ms2.mp3"
+        }	
+    ],
+    "小陳決定改成聽輕柔音樂，幫助入睡": [
+        {
+            "lines": [
+                "由於小陳長期依賴安眠藥",
+                "改聽音樂根本無法使他入睡",
+                "而小陳停止服藥的行為",
+                "讓小陳感到非常焦慮難耐",
+                "在床上輾轉難眠",
+                "一直做惡夢被驚醒。",
+                "導致小陳幾乎整夜都沒休息到。"
+            ],
+            "bg": "./img/chen09.jpg",
+            "char": [
+                {"name": "char_1", "imgPath": "./img/character.png"},
+                {"name": "char_2", "imgPath": "./img/character2.png"}
+            ],
+            "speaker": ["char_1", "char_2"],
+            "music": "./music/ms2.mp3"
+        },
+        {
+            "lines": [
+                "隔天早上小陳前往工作的路上",
+                "由於他長期加班睡眠不足加上昨晚幾乎整夜沒睡",
+                "導致他精神不濟",
+                "發生了事故"
+            ],
+            "bg": "./img/chen08.jpg",
+            "char": [
+                {"name": "char_1", "imgPath": "./img/character.png"},
+                {"name": "char_2", "imgPath": "./img/character2.png"}
+            ],
+            "speaker": ["char_1", "char_2"],
+            "music": "./music/ms2.mp3"
+        }			
+    ],
+    "聽輕柔音樂": [
+        {
+            "lines": [
+                "聽輕柔音樂",
+                "讓小陳感覺身心放鬆",
+                "那些煩惱漸漸被拋在腦後",
+                "慢慢睡著了。"
+            ],
+            "bg": "./img/chen03.jpg",
+            "char": [
+                {"name": "char_1", "imgPath": "./img/character.png"},
+                {"name": "char_2", "imgPath": "./img/character2.png"}
+            ],
+            "speaker": ["char_1", "char_2"],
+            "music": "./music/ms2.mp3"
+        },
+        {
+            "lines": [
+                "第二天早上",
+                "小陳有精神能夠繼續面對工作問題",
+                "不過那些前輩依舊繼續欺負小陳。",
+                "這種情況一直持續",
+                "小陳也都照著當初的方式來幫助睡眠。"
+            ],
+            "bg": "./img/chen10.jpg",
+            "char": [
+                {"name": "char_1", "imgPath": "./img/character.png"},
+                {"name": "char_2", "imgPath": "./img/character2.png"}
+            ],
+            "speaker": ["char_1", "char_2"],
+            "music": "./music/ms2.mp3"
+        },
+        {
+            "lines": [
+                "數天後",
+                "小陳臨時被安排要到其他縣市出差五天。",
+                "到了旅館，準備睡覺",
+                "小陳一想到明天要跟客戶洽談",
+                "就感覺很緊張、焦慮",
+                "怕自己會把工作搞砸",
+                "導致他遲遲無法入睡。",
+                "這時小陳決定"
+            ],
+            "bg": "./img/chen11.jpg",
+            "char": [
+                {"name": "char_1", "imgPath": "./img/character.png"},
+                {"name": "char_2", "imgPath": "./img/character2.png"}
+            ],
+            "speaker": ["char_1", "char_2"],
+            "music": "./music/ms2.mp3"
+        }
+    ],
+    "吃顆安眠藥，幫助入睡": [
+        {
+            "lines": [
+                "昨晚小陳因為吃了安眠藥",
+                "讓他有深沉睡眠",
+                "一早在前往工作的路上精神狀況良好",
+                "小陳一想到明天要跟客戶洽談",
+                "與客戶洽談時也非常順利。"
+            ],
+            "bg": "./img/chen12.jpg",
+            "char": [
+                {"name": "char_1", "imgPath": "./img/character.png"},
+                {"name": "char_2", "imgPath": "./img/character2.png"}
+            ],
+            "speaker": ["char_1", "char_2"],
+            "music": "./music/ms2.mp3"
+        }
+    ],
+    "依然聽輕柔音樂，幫助入睡": [
+        {
+            "lines": [
+                "小陳依舊聽著輕柔音樂來幫助入睡",
+                "這讓他能夠放鬆身心深沉睡眠",
+                "使得小陳睡眠品質漸漸變好了。",
+                "一早在前往工作的路上精神狀況良好",
+                "與客戶洽談時也非常順利。"
+            ],
+            "bg": "./img/chen12.jpg",
+            "char": [
+                {"name": "char_1", "imgPath": "./img/character.png"},
+                {"name": "char_2", "imgPath": "./img/character2.png"}
+            ],
+            "speaker": ["char_1", "char_2"],
+            "music": "./music/ms2.mp3"
+        }
+    ]
+  },
+  "selects": {
+    "保母": {
+      "餵孩子吃安眠藥": {
+        "join": "餵孩子吃安眠藥"
+      },
+      "認了": {
+        "join": "認了"
+      }
+    },
+    "工程師": {
+      "吃安眠藥自殺": {
+        "join": "自殺"
+      },
+      "換工作": {
+        "join": "換工作"
+      },
+      "改變自己": {
+        "join": "改變自己"
+      }
+    },
+    "無辜的阿嬤": {
+      "叫她起來吃安眠藥": {
+        "join": "叫她起來吃安眠藥"
+      },
+      "離開": {
+        "join": "離開"
+      }
+    },
+    "上班族": {
+      "補吃個安眠藥再去上班": {
+        "join": "補吃個安眠藥再去上班"
+      },
+      "直接去上班": {
+        "join": "直接去上班"
+      }
+    },
+    "安眠鎮靜劑": {
+      "多吃一粒’美得眠’，上床睡覺": {
+        "join": "多吃一粒’美得眠’，上床睡覺"
+      },
+      "在床上閉起眼睛": {
+        "join": "在床上閉起眼睛"
+      }
+    },
+    "不藥睡覺": {
+      "吃安眠藥": {
+        "join": "吃安眠藥"
+      },
+      "聽輕柔音樂": {
+        "join": "聽輕柔音樂"
+      }
+    },
+    "吃安眠藥":{
+      "小陳感到焦慮，決定去藥局買": {
+          "join": "小陳感到焦慮，決定去藥局買"
+      },
+      "小陳決定改成聽輕柔音樂，幫助入睡": {
+          "join": "小陳決定改成聽輕柔音樂，幫助入睡"
+      }
+    },
+    "聽輕柔音樂": {
+      "吃顆安眠藥，幫助入睡": {
+          "join": "吃顆安眠藥，幫助入睡"
+      },
+        "依然聽輕柔音樂，幫助入睡": {
+          "join": "依然聽輕柔音樂，幫助入睡"
+      }
+    }
+  }
+}
