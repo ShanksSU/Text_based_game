@@ -102,7 +102,7 @@ define("index", ["react", "react-dom", "require", "exports"], function (react_1,
             react_1.default.createElement('div', { className: "dialog-box" },
             // react_1.default.createElement("img", { className: "character-image", src: "character.png", alt: "Character" }),
             react_1.default.createElement('div', { className: "dialog-text" },
-            react_1.default.createElement('span', { style: {fontSize: "25px"} }, speaker, react_1.default.createElement('br', null)),
+            // react_1.default.createElement('span', { style: {fontSize: "25px"} }, speaker, react_1.default.createElement('br', null)),
             lines.map(function(line, index) {
                 return react_1.default.createElement(
                     Line,
