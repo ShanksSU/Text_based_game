@@ -213,7 +213,7 @@ define("index", ["react", "react-dom", "require", "exports"], function (react_1,
             bg && react_1.default.createElement(BG_Picture, { src: bg }),
             //char && react_1.default.createElement(Char_Picture, { src: char, speak: char_speak}),
             //!galStart ? react_1.default.createElement(CharStat, null) : null,
-            music && react_1.default.createElement(Music, { ref: music_ref, src: music }),
+            // music && react_1.default.createElement(Music, { ref: music_ref, src: music }),
             react_1.default.createElement(Lines, { speed: speed, init: initLine, ref: ref, lines: lines, speak: char_speak,
                 onNext: function () {
                     var hasNext = state < pages.length - 1;
